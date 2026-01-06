@@ -1,6 +1,25 @@
 # 💫 About Me:
 🔭 I’m currently working on my own AI chatbot, experimenting with natural language processing and conversational design.<br>⚡ Fun fact: I love building tools that make tech feel more human!
 
+I build clean, responsive, and high-performing web interfaces that blend design, functionality, and user-centric thinking. My journey started with curiosity and evolved into a disciplined craft—writing purposeful code, solving real problems, and contributing to production-ready projects.
+
+Over time, I’ve worked as a Front-End Developer at Graphix Media, where I gained hands-on experience in creating responsive layouts, integrating APIs, debugging workflows, and collaborating with cross-functional teams. Each project strengthened my ability to transform ideas into structured, scalable, and visually consistent interfaces.
+
+What I bring to the table:
+• Strong UI development using HTML5, CSS3, JavaScript (ES6+)
+• Experience with React.js, Bootstrap, Tailwind CSS
+• Skilled in responsive design, DOM manipulation, API integration
+• Ability to convert Figma/PSD designs into pixel-perfect pages
+• Familiar with Git, GitHub, and collaborative development practices
+• Interest in AI-driven interfaces and modern web solutions
+
+Beyond work, I constantly explore new tools and frameworks, refine my understanding of clean code principles, and develop personal projects—including Zenbot, an AI-powered web assistant, and Lazarev, an animation-rich GSAP-based interface.
+
+I’m driven by growth, discipline, and the belief that great products are built through continuous learning and thoughtful execution. Open to opportunities that challenge my skills and push me to create meaningful digital experiences.
+
+
+---
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rishi_raj_436) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishi.raj.kushwaha.24@gmail.com) 
